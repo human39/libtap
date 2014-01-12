@@ -1,0 +1,9 @@
+Quick Installation
+
+    mkdir build
+    cd build
+    cmake ..
+    make
+    make check
+    make install
+
